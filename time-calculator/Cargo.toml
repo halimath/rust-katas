@@ -1,0 +1,7 @@
+[package]
+name = "rust_kata_time"
+version = "0.1.0"
+authors = ["Alexander Metzner <alexander.metzner@gmail.com>"]
+
+[dependencies]
+regex = "0.2"
